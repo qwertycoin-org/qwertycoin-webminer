@@ -1,3 +1,12 @@
+> [!CAUTION]
+> **ARCHIVED CRYPTONIGHT WEB MINER — NOT COMPATIBLE WITH QWERTYCOIN V2.**
+> Do not host or embed this browser-mining code. Current Qwertycoin mining uses
+> RandomX and requires explicit user-controlled mining software. See the
+> [official pool](https://pool.qwertycoin.org/) and current
+> [mining documentation](https://docs.qwertycoin.org/). Browser mining also
+> creates material consent and abuse risks; this project has no supported
+> successor.
+
 # deepMiner
 
 ![logo](https://raw.githubusercontent.com/deepwn/deepMiner/master/.github/banner.png)
